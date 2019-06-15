@@ -1,0 +1,50 @@
+Receipt
+Item 1001	Snickers        	$0.75
+Item 1121	Vanilla yogurt  	$0.75
+Item 1234	Dozen Eggs      	$3.69
+Item 1234	Dozen Eggs      	$3.69
+Item 2121	Planters Peanuts	$8.02
+Item 2222	Chips Ahoy      	$3.29
+Item 3033	Starbucks Blend 	$6.99
+Item 3222	Orowheat bread  	$4.99
+Item 5122	Red grapes      	$5.49
+Item 5545	Clementines     	$7.99
+Item 9212	Large T Shirt   	$15.99
+Total: $61.64
+
+Trying to delete item 1234
+Receipt
+Item 1001	Snickers        	$0.75
+Item 1121	Vanilla yogurt  	$0.75
+Item 1234	Dozen Eggs      	$3.69
+Item 2121	Planters Peanuts	$8.02
+Item 2222	Chips Ahoy      	$3.29
+Item 3033	Starbucks Blend 	$6.99
+Item 3222	Orowheat bread  	$4.99
+Item 5122	Red grapes      	$5.49
+Item 5545	Clementines     	$7.99
+Item 9212	Large T Shirt   	$15.99
+Total: $57.95
+
+Trying to delete item 10000
+Receipt
+Item 2121	Planters Peanuts	$8.02
+Item 3033	Starbucks Blend 	$6.99
+Item 3222	Orowheat bread  	$4.99
+Item 4424	Pantene Shampoo 	$0.00
+Total: $20.00
+
+Trying to delete item 3222
+Trying to delete item 3033
+Trying to delete item 2121
+Trying to delete item 1234
+Receipt
+Item 4424	Pantene Shampoo 	$0.00
+Total: $0.00
+
+Receipt
+Item 3222	Orowheat bread  	$4.99
+Item 4424	Pantene Shampoo 	$0.00
+Item 8000	Fred Meyer Gift 	$50.00
+Total: $54.99
+
